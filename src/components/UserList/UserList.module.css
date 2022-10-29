@@ -1,0 +1,15 @@
+.user {
+  max-width: 44rem;
+  width: 90%;
+  margin: 2rem auto;
+  background-color: aliceblue;
+}
+.user ul{
+    list-style: none;
+    padding: 1rem;
+}
+.user li {
+    border: 1px solid #ccc;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+}

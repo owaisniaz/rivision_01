@@ -1,0 +1,17 @@
+.button {
+  background-color: brown;
+  border: 1px solid brown;
+  padding: 0.25rem 1rem;
+  cursor: pointer;
+  color: aliceblue;
+  font-weight: 700;
+}
+.button:hover,
+.button:active {
+  background-color: rgb(159, 69, 69);
+  border-color: rgb(159, 69, 69);
+}
+
+.button:focus {
+  outline: none;
+}
